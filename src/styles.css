@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  color: blue;
+  padding: 6px;
+  text-overflow: none;
+  margin: 10px;
+}
+
+.change-counter {
+  margin-top: 6px;
+  text-align: center;
+}
